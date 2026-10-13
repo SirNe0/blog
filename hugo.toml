@@ -1,0 +1,4 @@
+baseURL = "https://mihai.urluescu.ro/"
+title = "Mihai Urluescu"
+theme = "hugo-coder"
+languageCode = "en"
