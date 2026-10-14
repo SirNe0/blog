@@ -1,5 +1,7 @@
 ---
-title: "About Me"
+title: "About"
+menu: "main"
+weight: 2
 type: "page"  # Optional, but helps Hugo categorize
 ---
 ## Who I Am
